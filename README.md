@@ -62,10 +62,10 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=C81E36&text_color=D9CFBE&icon_color=C9A44C)
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&hide_border=true&bg_color=0B0D14&title_color=B89CF0&text_color=D4DDE8&icon_color=9B78D6)
 
-![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&hide_border=true&background=0A0A0C&border=2C2433&stroke=2C2433&ring=C81E36&fire=C81E36&currStreakLabel=C81E36&sideLabels=D9CFBE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F897C)
+![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&hide_border=true&background=0B0D14&border=2A2440&stroke=2A2440&ring=B89CF0&fire=9B78D6&currStreakLabel=B89CF0&sideLabels=D4DDE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8AA0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=C81E36&text_color=D9CFBE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&bg_color=0B0D14&title_color=B89CF0&text_color=D4DDE8)
 
 </div>
