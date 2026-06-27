@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e44ff&height=200&section=header&text=Hello!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=55&fontAlignY=38" width="100%" />
 
-# I'm a Smart Contract Developer
+# Smart-contract Dev
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E44FF&center=true&width=520&lines=Blockchain+%26+Web3+Builder;Solidity+Smart+Contracts;Next.js+%2B+React+%2B+TypeScript;Always+learning+%F0%9F%8C%B1" alt="typing" />
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Priyanshucodes-100&color=6e44ff&style=flat)
-![Followers](https://img.shields.io/github/followers/Priyanshucodes-100?style=social)
-![Stars](https://img.shields.io/github/stars/Priyanshucodes-100?style=social)
+![Blockchain & Web3 Builder](https://img.shields.io/badge/Blockchain_%26_Web3-Builder-6e44ff?style=flat-square)
+![Solidity Smart Contracts](https://img.shields.io/badge/Solidity-Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always-Learning_%F0%9F%8C%B1-2ea043?style=flat-square)
 
 ### _"Your keys, your data"_
 
@@ -18,19 +14,19 @@
 
 ---
 
-## 🤝 Connect with me
+<h2 align="center">🤝 &nbsp; Connect With Me</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-WEBSITE-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-587ab426a/)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PriyanshuK100)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukumar12983@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Live dApps & Projects
+<h2 align="center">🚀 &nbsp; Live dApps & Projects</h2>
 
 <div align="center">
 
@@ -40,15 +36,15 @@
 
 ---
 
-## 🧭 What I Do
+<h2 align="center">🧭 &nbsp; What I Do</h2>
 
 - 🔗 Build and test **Solidity smart contracts**
-- ⚛️ Craft **Web3 front-ends**
+- ⚛️ Turn complex blockchain ideas into smooth, interactive Web3 experiences that people actually enjoy using
 - 🎨 Make learning fun with themed, animated project pages
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ &nbsp; Tech Stack</h2>
 
 <div align="center">
 
@@ -64,14 +60,14 @@
 
 ---
 
-## 📊 My GitHub Stats
+<h2 align="center">📊 &nbsp; My GitHub Stats</h2>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=F778BA)
 
-![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=F778BA&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9)
 
 </div>
