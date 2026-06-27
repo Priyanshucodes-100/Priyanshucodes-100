@@ -57,6 +57,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## 📊 GITHUB STATISTICS
 
@@ -69,3 +70,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&bg_color=0B0D14&title_color=B89CF0&text_color=D4DDE8)
 
 </div>
+
