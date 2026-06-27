@@ -71,10 +71,8 @@
 
 </div>
 
-## 🐍 WATCH THE SNAKE EAT MY CONTRIBUTIONS
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Priyanshucodes-100/Priyanshucodes-100/output/github-snake-amethyst.svg)
+![Snake animation](https://raw.githubusercontent.com/Priyanshucodes-100/Priyanshucodes-100/output/github-snake-emerald.svg)
 
 </div>
