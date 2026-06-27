@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e44ff&height=200&section=header&text=Hello!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=55&fontAlignY=38" width="100%" />
 
-# I turn coffee into smart contracts ☕ → ⛓️
+# Crafting trust into code ⛓️
 
 **Blockchain & Web3 Builder**  •  **Solidity Smart Contracts**  •  **Always Learning 🌱**
 
@@ -37,7 +37,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -63,18 +62,10 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&hide_border=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucodes-100&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=C81E36&text_color=D9CFBE&icon_color=C9A44C)
 
-![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Priyanshucodes-100&hide_border=true&background=0A0A0C&border=2C2433&stroke=2C2433&ring=C81E36&fire=C81E36&currStreakLabel=C81E36&sideLabels=D9CFBE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F897C)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshucodes-100&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucodes-100&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=C81E36&text_color=D9CFBE)
 
 </div>
