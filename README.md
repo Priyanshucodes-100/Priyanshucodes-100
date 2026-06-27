@@ -73,6 +73,6 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Priyanshucodes-100/Priyanshucodes-100/output/github-snake-emerald.svg)
+![Snake animation](https://raw.githubusercontent.com/Priyanshucodes-100/Priyanshucodes-100/output/github-snake-frost.svg)
 
 </div>
