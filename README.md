@@ -45,11 +45,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-001A72?style=for-the-badge&logo=rainbow&logoColor=white)
+![Wagmi](https://img.shields.io/badge/wagmi-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 
 **Blockchain & Web3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0C?style=for-the-badge&logo=ethereum&logoColor=skyblue)
+![Pinata](https://img.shields.io/badge/Pinata-6B4EFF?style=for-the-badge&logo=ipfs&logoColor=white)
+![Reown](https://img.shields.io/badge/Reown-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white)
 
 **Tools**
 
